@@ -16,10 +16,10 @@ Este proyecto es una plantilla base que utiliza **React**, **TypeScript** y **Vi
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/fireckoner100/rafael-fragoso-react-test.git
 
 # Entra al proyecto
-cd tu-repo
+cd rafael-fragoso-react-test
 
 # Instala las dependencias
 npm install
